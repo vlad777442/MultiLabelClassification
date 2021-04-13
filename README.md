@@ -1,3 +1,3 @@
 # MultiLabelClassification
-Model ResNet-50
-Optimizer Adam
+#Model ResNet-50
+#Optimizer Adam
